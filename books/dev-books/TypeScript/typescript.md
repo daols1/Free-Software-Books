@@ -7,4 +7,4 @@ Please kindly follow this structure when you are contributing
 // List everything in alphabetical order (A - Z)
 // List them as a direct link to the resource (No redirects)
 
-- [Title of the book pdf](direct link to the book)
+-- Programming TypeScript: Making your JavaScript applications scale (https://drive.google.com/file/d/1dhhYT_0FgPdPkMaNINWJa4olZnEeBBQp/view?usp=sharing)
